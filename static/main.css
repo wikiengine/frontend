@@ -1,0 +1,11 @@
+.app-progress.done {
+    opacity: 0
+}
+
+.app-progress.app-progress-notransition {
+    transition: none
+}
+
+.app-progress-failed {
+    background-color: red
+}
